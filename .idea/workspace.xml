@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f9fe04-004b-47aa-bc12-731eea5ebbab" name="Default Changelist" comment="" />
+    <list default="true" id="51f9fe04-004b-47aa-bc12-731eea5ebbab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="Play2ProjectSettings">
     <option name="LANGUAGE_IMPORTS">
@@ -32,6 +39,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WeyjYPfj636UFu4Sp5oXrPCkpz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -138,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579524490561</updated>
-      <workItem from="1579524505445" duration="2489000" />
+      <workItem from="1579524505445" duration="2698000" />
     </task>
     <servers />
   </component>
@@ -158,5 +167,9 @@
       <screen x="0" y="23" width="2048" height="1046" />
     </state>
     <state x="401" y="274" key="new project wizard/0.23.2048.1046@0.23.2048.1046" timestamp="1579526728952" />
+    <state x="689" y="255" width="670" height="676" key="search.everywhere.popup" timestamp="1579527276746">
+      <screen x="0" y="23" width="2048" height="1046" />
+    </state>
+    <state x="689" y="255" width="670" height="676" key="search.everywhere.popup/0.23.2048.1046@0.23.2048.1046" timestamp="1579527276746" />
   </component>
 </project>
