@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/conf/logback.xml,/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/target/scala-2.13/classes/logback.xml)
+[debug] 	(/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/conf/messages,/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/target/scala-2.13/classes/messages)
+[debug] 	(/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/conf/application.conf,/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/target/scala-2.13/classes/application.conf)
+[debug] 	(/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/conf/routes,/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/target/scala-2.13/classes/routes)
+[debug] 	(/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/conf/evolutions/default/2.sql,/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/target/scala-2.13/classes/evolutions/default/2.sql)
+[debug] 	(/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/conf/evolutions/default/1.sql,/Users/Sujata/IdeaProjects/AnormScalaInMemorySample/target/scala-2.13/classes/evolutions/default/1.sql)
